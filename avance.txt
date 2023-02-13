@@ -1,0 +1,43 @@
+Lenguaje COBOL desde 0
+ 
+ *****Introducción a COBOL y al Instructor (18:10)
+ 
+  *****Instalando el IDE OpenCOBOL (6:02)
+ 
+  *****Instalando el Compilador GNUCobol (5:08)
+ 
+ Comenzamos con OpenCobol y conocemos la estructura básica de un programa COBOL. (8:17)
+ 
+ Hola Mundo y conocemos el flujo de ejecución de COBOL (11:08)
+ 
+ Conociendo las DIVISIONS y SECTIONS iniciales (13:10)
+ 
+ Formatos de archivos de datos propietarios de COBOL (21:31)
+ 
+ ABM de Clientes - Completando el Archivo Indexado CLIENTES (16:08)
+ 
+ ABM de Clientes - Distintas aperturas de Archivo y Llamados a Rutinas (14:35)
+ 
+ ABM de Clientes - Grabando datos en nuestro archivo Cliente (13:18)
+ 
+ ABM de Clientes - Leyendo los datos grabados en mi archivo (20:08)
+ 
+ ABM de Clientes - Mostrando los datos por pantalla y Formateo de datos numéricos (12:45)
+ 
+ ABM de Clientes - Vectores, Matrices y Operaciones matemáticas con COBOL (18:50)
+ 
+ ABM de Clientes - Vectores en Registros de Archivo (Solo en COBOL) (6:01)
+ 
+ ABM de Clientes - Creando nuestro desarrollo estructurado. (12:43)
+ 
+ ABM de Clientes - Armando la Pantalla del ABM (15:14)
+ 
+ ABM de Clientes - Entramos en detalle al código de nuestras rutinas (43:54)
+ 
+ ABM de Clientes - Rutinas de Aceptación y Opciones (21:13)
+ 
+ ABM de Clientes - Finalizando el sistema y probando su correcto funcionamiento (31:33)
+ 
+ Aspectos finales de COBOL (24:34)
+ 
+ Descargas del curso
